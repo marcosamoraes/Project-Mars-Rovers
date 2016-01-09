@@ -9,7 +9,9 @@ Then, the user needs set the rover's position(X, Y and the direction).
 
 After that, the user will control the robot using the letters 'L', 'R' and 'M', L as in Left, R as in Right and M as in Move.
 
-Finally the user press 'ENTER' and the program will show the robot's end position(X, Y and the direction).
+He needs enter all actions without spaces and proceed to next step only when provided all operations.
+
+Finally the user press 'ENTER' button and the program will show the robot's end position(X, Y and the direction).
 
 Obs: uppercase letters only.
 
